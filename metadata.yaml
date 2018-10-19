@@ -30,5 +30,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French fiction'
 - !lcc 'PQ'
+- GITenberg
 title: Valentine
 url: http://www.gutenberg.org/ebooks/17251
